@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">Passionate full-stack developer creating cloud and mobile solutions. Embracing new tech for innovative results. Quality-focused and always questioning for better. From India, building in Germany. 🌐🚀</h3>
 
-- 💬 Ask me about **AI Solutions, AWS ,Flutter, React, Nextjs, Nestjs, Android, Redux, Mobx etc.**
+- 💬 Ask me about **AI Solutions, AWS, GCP, Google ADK, Flutter, React, Nextjs, Nestjs, Android, Redux, Mobx etc.**
 
 - 📫 How to reach me **himanshuyadav23196@gmail.com**
 
